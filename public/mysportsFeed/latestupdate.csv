@@ -1,0 +1,60 @@
+,Cumulative Player Stats,CUMULATIVE_PLAYER_STATS,"A list of player stats totals for all roster players, summarized by their latest team.",,,
+,Cumulative Player Stats,CUMULATIVE_PLAYER_STATS,"A list of player stats totals for all roster players, summarized by their latest team.",,,
+,Cumulative Player Stats,CUMULATIVE_PLAYER_STATS,"A list of player stats totals for all roster players, summarized by their latest team.",,,
+,Full Game Schedule,FULL_GAME_SCHEDULE,A list of all games to be played for the entire season.,,,2018-01-22 3:01:09 PM
+,Full Game Schedule,FULL_GAME_SCHEDULE,A list of all games to be played for the entire season.,,,
+,Full Game Schedule,FULL_GAME_SCHEDULE,A list of all games to be played for the entire season.,,,2018-01-22 3:01:09 PM
+,Daily Game Schedule,DAILY_GAME_SCHEDULE,A list of games to be played for a given day.,,,
+,Daily Game Schedule,DAILY_GAME_SCHEDULE,A list of games to be played for a given day.,2018-03-29,,2018-01-22 3:01:09 PM
+,Daily Game Schedule,DAILY_GAME_SCHEDULE,A list of games to be played for a given day.,2018-03-29,,2018-01-22 3:01:09 PM
+,Daily Player Stats,DAILY_PLAYER_STATS,A list of player stats totals for those players who particpated in games on a given day.,,,
+,Daily Player Stats,DAILY_PLAYER_STATS,A list of player stats totals for those players who particpated in games on a given day.,,,
+,Daily Player Stats,DAILY_PLAYER_STATS,A list of player stats totals for those players who particpated in games on a given day.,2018-03-29,,2018-01-22 3:01:09 PM
+,Scoreboard,SCOREBOARD,Scores and status for all games on a given day.,,,
+,Game BoxScore,GAME_BOXSCORE,"A boxscore of scoring plays and player stats, for a game.",,,
+,Game Play-by-Play,GAME_PLAYBYPLAY,All plays that have occurred for a game.,,,
+,Game BoxScore,GAME_BOXSCORE,"A boxscore of scoring plays and player stats, for a game.",,,
+,Game BoxScore,GAME_BOXSCORE,"A boxscore of scoring plays and player stats, for a game.",,,
+,Game Play-by-Play,GAME_PLAYBYPLAY,All plays that have occurred for a game.,,,
+,Game Play-by-Play,GAME_PLAYBYPLAY,All plays that have occurred for a game.,,,
+,Scoreboard,SCOREBOARD,Scores and status for all games on a given day.,2018-03-29,,2018-01-22 3:01:09 PM
+,Scoreboard,SCOREBOARD,Scores and status for all games on a given day.,2018-03-29,,2018-01-22 3:01:09 PM
+,Team Game Logs,TEAM_GAMELOGS,Game logs for one or more teams,,,
+,Team Game Logs,TEAM_GAMELOGS,Game logs for one or more teams,,,2018-01-22 3:01:09 PM
+,Roster Players,ROSTER_PLAYERS,"A list of players, along with details, currently assigned to a team's roster.",,,
+,Roster Players,ROSTER_PLAYERS,"A list of players, along with details, currently assigned to a team's roster.",,,
+,Game Starting Lineup,GAME_STARTINGLINEUP,Expected and Actual starting lineup for both teams of a game.,,,
+,Game Starting Lineup,GAME_STARTINGLINEUP,Expected and Actual starting lineup for both teams of a game.,,,
+,Player Game Logs,PLAYER_GAMELOGS,Game logs for one or more players,,,
+,Game Starting Lineup,GAME_STARTINGLINEUP,Expected and Actual starting lineup for both teams of a game.,,,
+,Roster Players,ROSTER_PLAYERS,"A list of players, along with details, currently assigned to a team's roster.",,,2018-02-16 5:41:36 PM
+,Player Game Logs,PLAYER_GAMELOGS,Game logs for one or more players,,,
+,Team Game Logs,TEAM_GAMELOGS,Game logs for one or more teams,,,
+,Player Game Logs,PLAYER_GAMELOGS,Game logs for one or more players,,,2018-02-16 5:41:35 PM
+,Active Players,ACTIVE_PLAYERS,"A list of players for the entire league, regardless of whether assigned to a team's roster.",,,2018-02-16 5:41:35 PM
+,Active Players,ACTIVE_PLAYERS,"A list of players for the entire league, regardless of whether assigned to a team's roster.",,,2018-02-16 5:41:35 PM
+,Active Players,ACTIVE_PLAYERS,"A list of players for the entire league, regardless of whether assigned to a team's roster.",,,2018-02-16 5:41:35 PM
+,Overall Team Standings,OVERALL_TEAM_STANDINGS,"A list of ranked team standings for ALL teams, along with stats.",,,
+,Overall Team Standings,OVERALL_TEAM_STANDINGS,"A list of ranked team standings for ALL teams, along with stats.",,,
+,Overall Team Standings,OVERALL_TEAM_STANDINGS,"A list of ranked team standings for ALL teams, along with stats.",,,
+,Conference Team Standings,CONFERENCE_TEAM_STANDINGS,"A list of ranked team standings for each Conference, along with stats.",,,
+,Conference Team Standings,CONFERENCE_TEAM_STANDINGS,"A list of ranked team standings for each Conference, along with stats.",,,
+,Conference Team Standings,CONFERENCE_TEAM_STANDINGS,"A list of ranked team standings for each Conference, along with stats.",,,
+,Division Team Standings,DIVISION_TEAM_STANDINGS,"A list of ranked team standings for each Division, along with stats.",,,
+,Division Team Standings,DIVISION_TEAM_STANDINGS,"A list of ranked team standings for each Division, along with stats.",,,
+,Division Team Standings,DIVISION_TEAM_STANDINGS,"A list of ranked team standings for each Division, along with stats.",,,
+,Playoff Team Standings,PLAYOFF_TEAM_STANDINGS,"A list of playoff-ranked team standings for each Conference, along with stats.",,,
+,Playoff Team Standings,PLAYOFF_TEAM_STANDINGS,"A list of playoff-ranked team standings for each Conference, along with stats.",,,
+,Playoff Team Standings,PLAYOFF_TEAM_STANDINGS,"A list of playoff-ranked team standings for each Conference, along with stats.",,,
+,Player Injuries,PLAYER_INJURIES,A list of all currently injured players.,,,
+,Player Injuries,PLAYER_INJURIES,A list of all currently injured players.,,,
+,Player Injuries,PLAYER_INJURIES,A list of all currently injured players.,,,2018-02-16 5:41:35 PM
+,Daily DFS,DAILY_DFS,"A list of players, along with their DFS salaries and actual fantasy points.",,,
+,Latest Updates,LATEST_UPDATES,This feed lists the last updated date/time for each available feed.,,,2018-02-16 5:41:35 PM
+,Daily DFS,DAILY_DFS,"A list of players, along with their DFS salaries and actual fantasy points.",,,
+,Current Season,CURRENT_SEASON,"The current season for a given date (or today), along with supported team/player stats.",,,
+,Current Season,CURRENT_SEASON,"The current season for a given date (or today), along with supported team/player stats.",,,
+,Latest Updates,LATEST_UPDATES,This feed lists the last updated date/time for each available feed.,,,
+,Latest Updates,LATEST_UPDATES,This feed lists the last updated date/time for each available feed.,,,
+,Daily DFS,DAILY_DFS,"A list of players, along with their DFS salaries and actual fantasy points.",2018-03-29,,2018-01-22 3:01:09 PM
+,Current Season,CURRENT_SEASON,"The current season for a given date (or today), along with supported team/player stats.",2018-03-29,,2018-01-22 3:01:11 PM
